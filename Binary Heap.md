@@ -2,7 +2,7 @@
 
 :alarm_clock: Jan 27
 
-Link[https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484495&idx=1&sn=bbfeba9bb5cfd50598e2a4d08c839ee9&scene=21#wechat_redirect]
+[Link](https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484495&idx=1&sn=bbfeba9bb5cfd50598e2a4d08c839ee9&scene=21#wechat_redirect)
 
 *Full* binary heap.
 
@@ -16,8 +16,14 @@ binary heap is stored in array, uses index as pointers.
 all nodes are larger than their child nodes.
 - **Min Heap**
 
-### Operations
+### Binary heap Operations
 `swim()`\
-`sink()`\
+`sink()`
+
+## Priority Queue
+based on binary heap
+- operations\
 `insert`\
-`delMax`
+`delMax` or `delMin`
+
+
