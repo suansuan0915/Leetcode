@@ -5,9 +5,9 @@
 
 can be used in **Linkedlist** , **array**. (especially *in-place* modification)
 
-- 3 Types of Two Pointers\
-  - fast/slow pointers\
-  - left/right pointers\
+- 3 Types of Two Pointers
+  - fast/slow pointers
+  - left/right pointers
   - sliding window
 
 ### fast/slow pointers
