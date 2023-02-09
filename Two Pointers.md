@@ -21,4 +21,5 @@ find middle point of linkedlist
 ### left/right pointers
 - Q List\
 Binary search\
-N Sum
+N Sum\
+Palindrome (a little different, l,r start from same index BUT walk in contradict directions)
